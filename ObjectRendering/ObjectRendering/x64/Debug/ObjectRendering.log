@@ -1,0 +1,11 @@
+﻿  ObjectRendering.cpp
+D:\Project Visual Studio\ObjectRendering\ObjectRendering\ObjectRendering.cpp(46,17): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+D:\Project Visual Studio\ObjectRendering\ObjectRendering\ObjectRendering.cpp(47,12): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\Project Visual Studio\ObjectRendering\ObjectRendering\ObjectRendering.cpp(48,18): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\Project Visual Studio\ObjectRendering\ObjectRendering\ObjectRendering.cpp(49,18): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\Project Visual Studio\ObjectRendering\ObjectRendering\ObjectRendering.cpp(50,18): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\Project Visual Studio\ObjectRendering\ObjectRendering\ObjectRendering.cpp(58,23): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+D:\Project Visual Studio\ObjectRendering\ObjectRendering\ObjectRendering.cpp(142,14): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\Project Visual Studio\ObjectRendering\ObjectRendering\ObjectRendering.cpp(143,15): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\Project Visual Studio\ObjectRendering\ObjectRendering\ObjectRendering.cpp(174,5): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  ObjectRendering.vcxproj -> D:\Project Visual Studio\ObjectRendering\x64\Debug\ObjectRendering.exe

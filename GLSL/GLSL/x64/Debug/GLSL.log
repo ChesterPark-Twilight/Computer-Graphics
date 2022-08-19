@@ -1,0 +1,5 @@
+﻿  GLSL.cpp
+D:\Project Visual Studio\GLSL\GLSL\GLSL.cpp(22,21): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+D:\Project Visual Studio\GLSL\GLSL\GLSL.cpp(23,17): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\Project Visual Studio\GLSL\GLSL\GLSL.cpp(24,17): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+  GLSL.vcxproj -> D:\Project Visual Studio\GLSL\x64\Debug\GLSL.exe

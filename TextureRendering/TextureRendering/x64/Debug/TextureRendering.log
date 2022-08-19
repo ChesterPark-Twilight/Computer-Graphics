@@ -1,0 +1,8 @@
+﻿  TextureRendering.cpp
+D:\Project Visual Studio\TextureRendering\TextureRendering\TextureRendering.cpp(189,37): warning C4244: “=”: 从“GLint”转换到“float”，可能丢失数据
+D:\Project Visual Studio\TextureRendering\TextureRendering\TextureRendering.cpp(197,14): warning C4244: “参数”: 从“float”转换到“GLint”，可能丢失数据
+D:\Project Visual Studio\TextureRendering\TextureRendering\TextureRendering.cpp(250,15): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\Project Visual Studio\TextureRendering\TextureRendering\TextureRendering.cpp(251,16): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\Project Visual Studio\TextureRendering\TextureRendering\TextureRendering.cpp(266,15): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\Project Visual Studio\TextureRendering\TextureRendering\TextureRendering.cpp(267,16): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+  TextureRendering.vcxproj -> D:\Project Visual Studio\TextureRendering\x64\Debug\TextureRendering.exe
